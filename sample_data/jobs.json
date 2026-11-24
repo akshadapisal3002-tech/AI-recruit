@@ -1,0 +1,70 @@
+[
+  {
+    "title": "AI / LLM Engineer",
+    "description": "Build LLM-powered products: retrieval augmented generation, embeddings, semantic search and FastAPI services. Work with Python and vector databases to ship reliable AI features.",
+    "required_skills": [
+      "python",
+      "llm",
+      "rag",
+      "embeddings",
+      "fastapi"
+    ],
+    "preferred_skills": [
+      "pytorch",
+      "docker",
+      "vector database",
+      "langchain"
+    ],
+    "min_experience": 2,
+    "max_experience": 5,
+    "education": "Bachelor's degree in Computer Science or related field",
+    "location": "Pune",
+    "employment_type": "Full-time",
+    "last_date": "2027-12-31",
+    "status": "Open"
+  },
+  {
+    "title": "Backend Engineer (Python)",
+    "description": "Design and maintain REST APIs and microservices using Python, FastAPI and PostgreSQL. Deploy with Docker on AWS.",
+    "required_skills": [
+      "python",
+      "fastapi",
+      "postgresql",
+      "docker",
+      "rest api"
+    ],
+    "preferred_skills": [
+      "aws",
+      "redis",
+      "kubernetes"
+    ],
+    "min_experience": 3,
+    "max_experience": 7,
+    "education": "Bachelor's degree in Engineering",
+    "location": "Pune",
+    "employment_type": "Full-time",
+    "last_date": "2027-12-31",
+    "status": "Open"
+  },
+  {
+    "title": "Data Analyst",
+    "description": "Analyse business data with SQL and Python, build dashboards in Power BI or Tableau and present insights.",
+    "required_skills": [
+      "sql",
+      "excel",
+      "power bi"
+    ],
+    "preferred_skills": [
+      "python",
+      "tableau",
+      "pandas"
+    ],
+    "min_experience": 1,
+    "max_experience": 4,
+    "education": "Bachelor's degree",
+    "location": "Mumbai",
+    "employment_type": "Full-time",
+    "last_date": "2027-12-31",
+    "status": "Open"
+  }
+]
